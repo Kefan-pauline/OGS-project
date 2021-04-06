@@ -117,13 +117,13 @@ loglog(list_N,list_it)
 title('It en fonction du N')
 xlabel('N')
 ylabel('It')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 figure
 loglog(list_N,list_temps)
 title('Temps en fonction du N ')
 xlabel('N')
 ylabel('Temps')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 %%
 % 5.
 % Resolution pour N = 200
@@ -164,13 +164,13 @@ loglog(list_tol,list_it)
 title(['It en fonction du tol N= ' num2str(N)])
 xlabel('tol')
 ylabel('It')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 figure
 loglog(list_tol,list_temps)
 title(['Temps en fonction du tol N= ' num2str(N)])
 xlabel('tol')
 ylabel('Temps')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 %%
 % 5.
 % N = 251 en fonction du tol
@@ -191,13 +191,13 @@ loglog(list_tol,list_it)
 title(['It en fonction du tol N= ' num2str(N)])
 xlabel('tol')
 ylabel('It')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 figure
 loglog(list_tol,list_temps)
 title(['Temps en fonction du tol N= ' num2str(N)])
 xlabel('tol')
 ylabel('Temps')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 %%
 % 5.
 % N = 8 en fonction du rho_U
@@ -217,13 +217,13 @@ loglog(list_rhoU,list_it)
 title(['It en fonction du rho_U N= ' num2str(N)])
 xlabel('rho_U')
 ylabel('It')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 figure
 loglog(list_rhoU,list_temps)
 title(['Temps en fonction du rho_U N= ' num2str(N)])
 xlabel('rho_U')
 ylabel('Temps')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 %%
 % 5.
 % N = 9 en fonction du rho_U
@@ -243,13 +243,13 @@ loglog(list_rhoU,list_it)
 title(['It en fonction du rho_U N= ' num2str(N)])
 xlabel('rho_U')
 ylabel('It')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 figure
 loglog(list_rhoU,list_temps)
 title(['Temps en fonction du rho_U N= ' num2str(N)])
 xlabel('rho_U')
 ylabel('Temps')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 %%
 % 5.
 % N = 8 en fonction du rho
@@ -268,13 +268,13 @@ plot(list_rhoU,list_it)
 title(['It en fonction du rho N= ' num2str(N)])
 xlabel('rho')
 ylabel('It')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 figure
 plot(list_rhoU,list_temps)
 title(['Temps en fonction du rho N= ' num2str(N)])
 xlabel('rho')
 ylabel('Temps')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 %%
 % 5.
 % N = 9 en fonction du rho
@@ -293,13 +293,13 @@ plot(list_rhoU,list_it)
 title(['It en fonction du rho N= ' num2str(N)])
 xlabel('rho')
 ylabel('It')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 figure
 plot(list_rhoU,list_temps)
 title(['Temps en fonction du rho N= ' num2str(N)])
 xlabel('rho')
 ylabel('Temps')
-legend('Par prix','Par quantité','Par prediction')
+legend('Par prix','Par quantitÃ©','Par prediction')
 %%
 % 6.
 % Ajout d'un sur-diagonal
