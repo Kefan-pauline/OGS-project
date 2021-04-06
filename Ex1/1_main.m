@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%    Exercice 1 (Kefan S., Hiba S., Victor K. Vinh N.  %
+%    Exercice 1 Kefan S., Hiba S., Victor K. Vinh N.   %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 close all
 clear all
